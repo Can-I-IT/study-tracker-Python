@@ -24,10 +24,10 @@ A personal study tracker app built with **Python**. Track your daily study time,
 - openpyxl
 - pygame
 
----
 Install them with:
 pip install pandas matplotlib openpyxl pygame
 
+---
 🧠 How to Use
 
 python study_tracker.py

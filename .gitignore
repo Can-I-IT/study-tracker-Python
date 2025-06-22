@@ -1,0 +1,5 @@
+__pycache__/
+*.xlsx
+*.mp3
+goal.txt
+study_log.csv
